@@ -1,0 +1,6 @@
+﻿  Lab.cpp
+C:\Users\X1CARBON\source\repos\Lab6\Lab.cpp(9,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\X1CARBON\source\repos\Lab6\Lab.cpp(52,23): warning C4101: err: неиспользованная локальная переменная
+C:\Users\X1CARBON\source\repos\Lab6\Lab.cpp(66,23): warning C4101: err: неиспользованная локальная переменная
+  gcd.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab6.vcxproj -> C:\Users\X1CARBON\source\repos\Lab6\Debug\Lab6.exe
